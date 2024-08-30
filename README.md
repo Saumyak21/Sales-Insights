@@ -1,7 +1,5 @@
 # ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-TABLEAU
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
 ## OVERVIEW:
     PROJECT NAME
     PROBLEM STATEMENTS
